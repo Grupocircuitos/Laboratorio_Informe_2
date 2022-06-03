@@ -65,7 +65,6 @@ Una malla es el camino que forman 2 o más ramas de un circuito. Además en una 
 
 ![image](https://user-images.githubusercontent.com/105887502/171022690-34846fc2-74ec-4841-a472-71fb3752e86f.png)
 
-
 4.4 Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla.
 
 ![image](https://user-images.githubusercontent.com/105887502/171922238-72619855-2895-4a44-984b-6edb72a076c7.png)
@@ -86,8 +85,9 @@ Malla 3:
 
 4.6  Resultados obtenidos para el circuito de la figura 2.1
 
+![image](https://user-images.githubusercontent.com/105887502/171926672-cf516316-3758-4900-9352-a41da0302427.png)
 
-5.  Calcular errores de las mediciones 
+5. Calcular errores de las medidas
 
 ![image](https://user-images.githubusercontent.com/105887502/171923057-d164e207-16f9-481c-8534-15acdb2b88ee.png)
 
