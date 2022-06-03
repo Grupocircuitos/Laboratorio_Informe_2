@@ -68,15 +68,30 @@ Una malla es el camino que forman 2 o más ramas de un circuito. Además en una 
 
 4.4 Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla.
 
-![image](https://user-images.githubusercontent.com/105887502/171918858-1948a0d2-c6ce-4ba3-b10b-cc6798a3f81a.png)
+![image](https://user-images.githubusercontent.com/105887502/171922238-72619855-2895-4a44-984b-6edb72a076c7.png)
 
-4.5  Resultados del circuito en físico
+4.5 Resultados del circuito en físico
 
-![image](https://user-images.githubusercontent.com/105887502/171918488-2309d496-dde2-40f0-894f-41e947160dcd.png)
+Malla 1:
+
+![image](https://user-images.githubusercontent.com/105887502/171922675-a61e040b-6c50-4a7c-a120-778df6c54419.png)
+
+Malla 2:
+
+![image](https://user-images.githubusercontent.com/105887502/171922812-38a9f3fe-25b9-47c8-843d-2a4af2722d2d.png)
+
+Malla 3:
+
+![image](https://user-images.githubusercontent.com/105887502/171922868-fbb4035e-1e9f-406c-8faf-c4cf035d9583.png)
 
 4.6  Resultados obtenidos para el circuito de la figura 2.1
 
-![image](https://user-images.githubusercontent.com/105887502/171918523-06a8d995-3cf2-4bdb-8ff9-b2ca16620b11.png)
+
+5.  Calcular errores de las mediciones 
+
+![image](https://user-images.githubusercontent.com/105887502/171923057-d164e207-16f9-481c-8534-15acdb2b88ee.png)
+
+![image](https://user-images.githubusercontent.com/105887502/171924342-b97aa3dd-932c-4ca8-b283-15a985408ffd.png)
 
 6. VÍDEO
 
@@ -86,8 +101,7 @@ https://youtu.be/C0OmUVssM9k
 
 - Al realizar el análisis completo del circuito se tiene que en total hay unicamente 3 mallas, es importante mencionar que no se deben de confundir a las mallas con las trayectorias, dado que una malla no posee ninguna rama en su interior, mientras que una trayectoria si puede tener 1 o más ramas en su interior.
 - Para realizar correctamente el cálculo de corrientes por el método de mallas es necesario asignar el sentido a las corrientes de forma que se pueda aplicar la ley de Kirchhoff de las tensiones en cada una de las mallas a tratar.
-- Los resultados obtenidos manualmente como en el simulador (TINKERCAD), varían en una mínima proporción debido a los factores utilizados en los cálculos, debido a esto se diría que nunca daremos con una medida exacta ni precisa solo una aproximación.
-
+- Los resultados obtenidos tanto en el simulador (Tinkercad) como en el circuito físico varían la medicación de las corrientes de mallas al no tener fuentes exactas como en el simulador, en ocasiones tendremos una mayor o menor fuente de voltaje al utilizar como fuentes los cargadores de los celulares, lo que no pasa en el simulador ya que podemos manejar cuanto voltaje exacto queremos.
 
 8. BIBLIOGRÁFIA 
 
