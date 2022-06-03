@@ -80,6 +80,7 @@ Una malla es el camino que forman 2 o más ramas de un circuito. Además en una 
 
 6. VÍDEO
 
+https://youtu.be/C0OmUVssM9k
 
 7. CONCLUSIÓNES 
 
